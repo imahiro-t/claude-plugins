@@ -1,0 +1,18 @@
+{
+  "name": "imahiro-plugins",
+  "description": "Claude Code plugins by Takashi Imahiro. Each plugin lives in its own repository and is referenced here at a release tag",
+  "owner": { "name": "Takashi Imahiro", "email": "imahiro-t@users.noreply.github.com" },
+  "plugins": [
+    {
+      "name": "graph-ops",
+      "description": "GraphOps ticket/graph workflow plugin",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/imahiro-t/graph-ops.git",
+        "path": "packages/plugin",
+        "ref": "v0.11.1"
+      },
+      "homepage": "https://github.com/imahiro-t/graph-ops"
+    }
+  ]
+}
