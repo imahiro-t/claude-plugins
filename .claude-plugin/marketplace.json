@@ -1,7 +1,10 @@
 {
-  "name": "imahiro-plugins",
-  "description": "Claude Code plugins by Takashi Imahiro. Each plugin lives in its own repository and is referenced here at a release tag",
-  "owner": { "name": "Takashi Imahiro", "email": "imahiro-t@users.noreply.github.com" },
+  "name": "erin-the-black-plugins",
+  "description": "Claude Code plugins. Each plugin lives in its own repository and is referenced here at a release tag",
+  "owner": {
+    "name": "Takashi Imahiro",
+    "email": "imahiro-t@users.noreply.github.com"
+  },
   "plugins": [
     {
       "name": "graph-ops",
@@ -13,6 +16,16 @@
         "ref": "v0.11.1"
       },
       "homepage": "https://github.com/imahiro-t/graph-ops"
+    },
+    {
+      "name": "quick-actions",
+      "description": "Icon actions on the text selected in the Claude Code transcript and on the conversation itself, chosen and ordered in settings, in English or Japanese",
+      "source": {
+        "source": "github",
+        "repo": "imahiro-t/quick-actions",
+        "ref": "v0.1.0"
+      },
+      "homepage": "https://github.com/imahiro-t/quick-actions"
     }
   ]
 }
