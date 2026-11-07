@@ -26,6 +26,16 @@
         "ref": "v0.1.1"
       },
       "homepage": "https://github.com/imahiro-t/quick-actions"
+    },
+    {
+      "name": "session-compass",
+      "description": "A band above the prompt with what the session is about (a summary of your prompts, or the ticket it works on) and buttons to step through your prompts",
+      "source": {
+        "source": "github",
+        "repo": "imahiro-t/session-compass",
+        "ref": "v0.1.0"
+      },
+      "homepage": "https://github.com/imahiro-t/session-compass"
     }
   ]
 }
