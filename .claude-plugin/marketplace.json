@@ -33,7 +33,7 @@
       "source": {
         "source": "github",
         "repo": "imahiro-t/session-compass",
-        "ref": "v0.2.0"
+        "ref": "v0.3.0"
       },
       "homepage": "https://github.com/imahiro-t/session-compass"
     }
